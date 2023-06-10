@@ -1,0 +1,23 @@
+h1 {
+    text-transform: uppercase;
+    color:white;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+    font-size: 3rem;
+}
+
+*{
+    background-color: black;
+}
+img {/*this height and width is of div and what is written beside img is height and width of img */
+    height: 500px;
+    width: 450px;
+    border: 5px solid white;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+p {
+    color:white;
+    text-align: center;
+    font-size: large;
+}
